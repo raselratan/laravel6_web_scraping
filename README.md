@@ -3,14 +3,16 @@
 <p>
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis.
 </p>
-<p><small>Through wikipedia</small></p>
+<p>----------------------------------<small>Through wikipedia</small></p>
 
 <h4>Installation</h4>
 
-````Clone the repo git clone https://github.com/raselratan/laravel6_web_scraping.git````
-````Run composer install````
-````Save as the .env.example to .env and set your database information````
-````Run php artisan key:generate to generate the app key````
+<ul>
+	<li>Clone the repo <strong>git clone https://github.com/raselratan/laravel6_web_scraping.git </strong></li>
+	<li>Run composer install</li>
+	<li>Save as the .env.example to .env and set your database information</li>
+	<li>Run php artisan key:generate to generate the app key</li>
+</ul>
 
 <ul>
 	<li>
